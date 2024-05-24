@@ -11,7 +11,7 @@ void output(){
     return;
 }
 void update(){
-    cout<<"Edit Dat";
+    cout<<"Edit Data";
     return;
 }
 void delate(){
