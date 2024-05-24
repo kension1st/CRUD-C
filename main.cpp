@@ -3,7 +3,7 @@
 using namespace std;
 
 void input(){
-    cout<<"Create Data";
+    cout<<"Create ";
     return;
 }
 void output(){
