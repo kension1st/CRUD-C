@@ -7,7 +7,7 @@ void input(){
     return;
 }
 void output(){
-    cout<<"List Data";
+    cout<<"List Datassdsdsds";
     return;
 }
 void update(){
